@@ -1,0 +1,137 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #0d1117;
+    font-family: sans-serif;
+}
+header i{
+    left: 49.7%;
+    transform: translate(-50%);
+    top: 3%;
+    position: absolute;
+}
+#thd{
+    color: #fff;
+    text-align: center;
+    display: block;
+    margin: 4em 0 1em;
+    font-size: 24px;
+}
+#loginbox{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    width: 300px;
+    height: 230px;
+    border: 1px solid rgb(46, 44, 44);
+    border-radius: 3%;
+    padding: 20px;
+    font-size: 15px;
+    background-color: #3032355d;
+    font-weight: 600;
+    color-scheme: light;
+}
+input{
+    width: 100%;
+    height: 34px;
+    color: #fff;
+    background-color:  #0d1117;
+    border-radius: 5px;
+    border: 1px solid rgba(255, 255, 255, 0.13);
+} 
+    
+label p a{
+    float: right;
+    font-weight: 200;
+    text-decoration: none;
+}
+#login{
+    color: #fff;
+    font-weight: 1;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    display: block;
+}
+#password{
+    font-weight: 1;
+    color: #fff;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    display: block;  
+}
+#password a{
+    color: #187edd;
+}
+#sub{
+    width: 300px;
+    border: none;
+    background-color: #28a745;
+    color: #fff;
+    display: block;
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: 600;
+    height: 34px;
+    border-radius: 5px;
+}
+#new{
+    color: #fff;
+    width: 308px;
+    height: 53px;
+    position: absolute;
+    border: 1px solid rgb(46, 44, 44);
+    background-color: transparent;
+    left: 50%;
+    top: 120%;
+    transform: translate(-50%, -50%);
+    margin-top: 16px;
+    margin-bottom: 10px;
+    padding: 5px 20px;
+    text-align: center;
+    border-radius: 3%;
+    font-weight: 1;
+}
+#new a{
+    color: #187edd;
+    text-decoration: none;
+}
+#new a:hover{
+    text-decoration: underline;
+}
+ul li{
+    display: inline;
+    list-style: none;
+}
+#list{
+
+    
+    width: 308px;
+    height: 53px;
+    position: absolute;
+    top: 160%;
+    width: 250%;
+    left: 70%;
+    transform: translate(-50%);
+    margin-top: 16px;
+    margin-bottom: 10px;
+    padding: 5px 20px;
+    text-align: center:
+}
+li a{
+    color: #586069;
+    font-size: 12px;
+    text-decoration: none;
+}
+li a:hover{
+    text-decoration: underline;
+}
+.m3{
+    margin-right: 10px;
+}
+
+
+
+
+
+
+
